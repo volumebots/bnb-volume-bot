@@ -1,6 +1,6 @@
 <div align="center">
 
-# ChartUp Solana - BNB Volume Bot
+# ChartUp - BNB Volume Bot
 
 **Dedicated Solana and BNB Smart Chain activity-testing tools operated through Telegram**
 
@@ -214,7 +214,7 @@ Contact the verified support username [`@chartup_support`](https://t.me/chartup_
 | Robinhood Chain Bot | [`@chartuprobinhood_bot`](https://t.me/chartuprobinhood_bot) |
 | Base Bot | [`@chartupbase_bot`](https://t.me/chartupbase_bot) |
 | Support | [`@chartup_support`](https://t.me/chartup_support) |
-| News | [`@chartup_io`](https://t.me/chartup_io) |
+| News | [`@chartupio`](https://t.me/chartupio) |
 | X | [`@chartup_io`](https://x.com/chartup_io) |
 
 ---
